@@ -1,0 +1,12 @@
+Report#5
+제목: OOP2016의 SVGTreeDraw을 수정해 새로운 기능을 추가, svggrim을 참조
+기한: 2016년 11월27일(일)
+
+기본 기능 
+File 메뉴에서 svg file을 open하면 그 파일을 읽어 오른쪽에 text와 왼쪽에 tree를 그린다.
+지금은 왼쪽 path node를 클릭하면 path node의 attribute 정보가 나온다.
+오른쪽에 DrawPandel을 추가해 그림을 그린다.
+ 
+추가 기능
+1. Draw -- Tree의 path node를 클릭하면 해당 path를 오른쪽에 그린다.   
+2. Clear -- 오른편 그림을 지운다.

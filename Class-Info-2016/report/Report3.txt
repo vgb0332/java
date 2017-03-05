@@ -1,0 +1,5 @@
+Report # 3 Due Date 11월 09일(수)
+GrimPan1
+
+grimpan0을 수정해 GrimShape를 사용하는 그림판(GrimPan1)을 만들 것.
+

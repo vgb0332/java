@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/home for c++/batik-parser-1.7.jar"/>
+	<classpathentry kind="lib" path="C:/home for c++/xmlparserv2-10.2.0.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Yongsuk/Downloads/xmlparserv2.jar/xmlparserv2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Yongsuk/Downloads/batik-all-1_6.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

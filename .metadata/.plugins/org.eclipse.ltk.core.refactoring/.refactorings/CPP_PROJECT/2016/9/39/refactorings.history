@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move 6 elements to &apos;CPP_PROJECT/src&apos;&#x0D;&#x0A;- Original project: &apos;CPP_PROJECT&apos;&#x0D;&#x0A;- Destination element: &apos;CPP_PROJECT/src&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     ch1&#x0D;&#x0A;     ch2&#x0D;&#x0A;     ch3&#x0D;&#x0A;     ch4&#x0D;&#x0A;     ch5&#x0D;&#x0A;     ch6&#x0D;&#x0A;- Update references to refactored element" description="Move folders" destination="/src" element1="ch1" element2="ch2" element3="ch3" element4="ch4" element5="ch5" element6="ch6" files="0" flags="589830" folders="6" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1474350117926" units="0" version="1.0"/>
+</session>

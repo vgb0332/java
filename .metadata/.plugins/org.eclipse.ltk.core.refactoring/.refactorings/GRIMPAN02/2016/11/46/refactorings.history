@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;DrawPanel.java&apos; to &apos;grimpan1/src/hufs.ces.grimpan1&apos;&#x0D;&#x0A;- Original project: &apos;GRIMPAN02&apos;&#x0D;&#x0A;- Destination element: &apos;grimpan1/src/hufs.ces.grimpan1&apos;&#x0D;&#x0A;- Original element: &apos;hufs.ces.grimpan2.DrawPanel.java&apos;" description="Copy compilation unit" destination="=grimpan1/src&lt;hufs.ces.grimpan1" element1="/src&lt;hufs.ces.grimpan2{DrawPanel.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1478503128817" units="1" version="1.0"/>
+</session>

@@ -1,0 +1,17 @@
+eclipse.preferences.version=1
+firstStartup=false
+history.repositoryURL=c3ZuOi8vMjIwLjY3LjEyMS4xMTkvT09QMjA2;c3ZuOi8vMjIwLjY3LjEyMS4xMTkvT09QMjAxNg\=\=;c3ZuOi8vMjIwLjY3LjEyMS4xMTkvT09QMjAxNQ\=\=
+history.repositoryUser=dXNlcg\=\=
+org.eclipse.team.svn.ui.panel.ListSelectionPanel.height=195
+org.eclipse.team.svn.ui.panel.ListSelectionPanel.width=470
+org.eclipse.team.svn.ui.panel.common.CommentPanel.height=146
+org.eclipse.team.svn.ui.panel.common.CommentPanel.width=510
+org.eclipse.team.svn.ui.panel.local.AddRepositoryPanel.height=109
+org.eclipse.team.svn.ui.panel.local.AddRepositoryPanel.width=470
+org.eclipse.team.svn.ui.panel.remote.ExportPanel.height=182
+org.eclipse.team.svn.ui.panel.remote.ExportPanel.width=470
+org.eclipse.team.svn.ui.panel.remote.RenameResourcePanel.height=200
+org.eclipse.team.svn.ui.panel.remote.RenameResourcePanel.width=525
+org.eclipse.team.svn.ui.panel.reporting.ErrorCancelPanel.height=137
+org.eclipse.team.svn.ui.panel.reporting.ErrorCancelPanel.width=640
+preference.repository.repositoryBrowser=false

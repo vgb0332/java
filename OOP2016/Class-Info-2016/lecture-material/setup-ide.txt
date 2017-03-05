@@ -1,0 +1,22 @@
+1. eclipse 설치
+google에서 eclipse 검색 --> eclipse neon --> download --> eclipse-inst-win64.exe 실행
+설치 위치를 C:\pub\eclipse\java-neon
+
+2. jdk 설치
+google에서 jdk download 검색 --> Java SE 8u101 JDK download --> jdk-8u101-windows-x64.exe
+설치 위치를 C:\pub\Java\jdk1.8.0_101
+jdk-8u101-docs-all.zip 도 다운 받아 Java\jdk1.8.0-docs 에 unzip
+web browser에서 file:///C:/pub/Java/jdk1.8.0-docs/api/index.html
+
+3. svn 설치
+1) java-neon/eclipse.exe 를 실행하고
+2) workspace를 C:/home/userid/oop2016ws로 만들기
+3) Help --> Eclipse Marketplace -->   svn 검색 --> Subversive-SVN Team provider install
+    confirm, yes, ...restart...
+4) Window --> preference --> Team --> SVN --> SVN Connector connector install(1.8 version)
+5) Open perspective --> SVN Repository Exploring --> new -->Repository localtion
+URL svn://220.67.121.119/OOP2016
+User: guest
+Password: guest
+Finish
+
